@@ -110,5 +110,5 @@ npm run dev
 
 ## 👨‍💻 Autor
 
-Alan Dias
-Projeto desenvolvido como parte da evolução em React e fundamentos de front-end.
+Alan Dias  
+Implementação focada em boas práticas de gerenciamento de estado e organização escalável de estilos em React.
