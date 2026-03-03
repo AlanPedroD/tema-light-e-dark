@@ -93,9 +93,6 @@ Essa abordagem possibilita:
 
 ---
 
-## 📷 Demonstração
-
-(Adicionar GIF ou imagem do funcionamento)
 
 ---
 
