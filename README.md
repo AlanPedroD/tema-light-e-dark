@@ -4,6 +4,8 @@
 
 ![Demonstração do projeto](./assets/demo.gif.gif)
 
+➡️ [Veja online](https://alanpedrod.github.io/tema-light-e-dark/)
+
 Implementação de alternância entre tema claro e escuro utilizando React, com aplicação global de estilo no `<body>`.
 
 O objetivo foi praticar gerenciamento de estado, controle de efeitos colaterais e organização escalável de classes CSS.
