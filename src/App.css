@@ -1,0 +1,56 @@
+/* Reset simples */
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  transition: background 0.3s, color 0.3s;
+}
+
+/* Tema claro (padrão) */
+body {
+  background: #f5f5f5;
+  color: #222;
+}
+
+/* Tema escuro */
+body.dark {
+  background: #121212;
+  color: #ffffff;
+}
+
+/* Container */
+/* .container {
+  padding: 40px;
+  max-width: 900px;
+  margin: auto;
+} */
+
+.container {
+  /* background: #fff; */
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s;
+}
+
+/* Botão */
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 6px;
+  margin-bottom: 20px;
+  transition: 0.3s;
+}
+
+body:not(.dark) button {
+  background: #222;
+  color: white;
+}
+
+body.dark button {
+  background: white;
+  color: #222;
+}
